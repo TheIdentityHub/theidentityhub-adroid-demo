@@ -34,8 +34,8 @@ public class MainActivity extends Activity {
           textView.setMovementMethod(new ScrollingMovementMethod());
           signInOutButton = (Button) findViewById(R.id.signout);
 
-          String BASE_URL = "https://www.theidentityhub.com/ever-near.com";
-          String CLIENT_ID = "2711557364713020027";
+          String BASE_URL = "https://www.theidentityhub.com/[Your URL segment]]";
+          String CLIENT_ID = "[Your Application Client Id]";
 
           is = new IdentityService(CLIENT_ID, BASE_URL);
 
