@@ -13,7 +13,7 @@ Change the configuration as follows
 
 1. Replace [Your URL segment] with the url of your tenant on The Identity Hub.
 
-Find the MainActivity.java file in the src/com/example/apidemo and assets folder and locate the following fragment:
+Find the MainActivity.java file in the src/com/example/apidemo folder and locate the following fragment:
 ````js
 String BASE_URL = "https://www.theidentityhub.com/[Your URL segment]";
 String CLIENT_ID = "[Your Application Client Id]"; 
