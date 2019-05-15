@@ -23,5 +23,5 @@ Change the configuration as follows
 1. Replace [Your URL segment] with the url of your tenant on The Identity Hub.
 2. Replace [Your Application Client Id] with the client id from your App configured in The Identity Hub.
 
-If you do not have already created an App see https://www.theidentityhub.com/hub/Documentation/#CreateAnApp.
+If you do not have already created an App see https://docs.theidentityhub.com/doc/Apps/Create-an-App.html.
 
